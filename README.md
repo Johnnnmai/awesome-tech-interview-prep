@@ -7,6 +7,8 @@
 
 Whether you are preparing for FAANG/MAANG interviews or targeting startups, this list covers frameworks, practice problems, mock interview platforms, books, and communities that have helped thousands of candidates land offers.
 
+**Preparing for AI/ML roles?** Check out our dedicated deep-dive: [**Awesome AI Engineer Interview**](https://github.com/Johnnnmai/awesome-ai-engineer-interview) — LLM system design, GenAI fundamentals, salary data, company guides, and bilingual EN/中文 content.
+
 ---
 
 ## Contents
