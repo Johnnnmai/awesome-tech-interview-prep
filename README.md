@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**Free:** [Check your interview answer](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=awesome-tech-interview-prep)  |  **Weekly drills:** [Interview Pass, $19/mo](https://buy.stripe.com/14AeVc4Wv7ita7O1Si5kk0j?utm_source=github&utm_medium=readme&utm_campaign=awesome-tech-interview-prep)
+**Free:** [Check your interview answer](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=awesome-tech-interview-prep)  |  **Weekly drills:** [Interview Pass, $19/mo](https://valenx.org/pass?utm_source=github&utm_medium=readme&utm_campaign=awesome-tech-interview-prep)
 
 > A curated collection of the best free and paid resources for preparing for tech interviews across Product Management, Software Engineering, Data Science, System Design, and more.
 
