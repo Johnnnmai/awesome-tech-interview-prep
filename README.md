@@ -42,7 +42,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Free, curated interview preparation materials for busy engineers. Covers resume, coding, system design, and behavioral rounds.
 - [interviewing.io Blog](https://interviewing.io/blog) - Data-driven insights on tech interviews from thousands of real mock sessions.
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't use whiteboard/trick-question interviews.
-- [Valenx Interview Resources](https://valenx.org/books/aie) - Free interview guides and frameworks across 14 tech roles, from an ex-Amazon AI/Robotics PM.
+- [Valenx Interview Resources](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L45) - Free interview guides and frameworks across 14 tech roles, from an ex-Amazon AI/Robotics PM.
 
 **Compensation Data**
 
@@ -62,14 +62,14 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 - [Exponent PM Course (Free Tier)](https://www.tryexponent.com/courses/pm) - Video lessons on product sense, execution, and strategy.
 - [Lewis Lin's Blog](https://www.lewis-lin.com/blog) - Frameworks for estimation, product design, and metrics questions.
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/) - Weekly deep dives on product management topics from a former Airbnb PM.
-- [Product Manager Interview Guide](https://valenx.org/books/aie) - Free comprehensive walkthrough of every PM interview round with frameworks.
+- [Product Manager Interview Guide](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L65) - Free comprehensive walkthrough of every PM interview round with frameworks.
 
 **Books**
 
 - [Cracking the PM Interview](https://www.amazon.com/dp/0984782818) by Gayle Laakmann McDowell - The classic PM interview prep book.
 - [Decode and Conquer](https://www.amazon.com/dp/0615930417) by Lewis Lin - Frameworks for PM case questions.
 - [Inspired](https://www.amazon.com/dp/1119387507) by Marty Cagan - How top companies create products customers love.
-- [The 0-to-1 PM Interview Playbook](https://valenx.org/books/aie) - Product sense, metrics, strategy cases, and behavioral storytelling system.
+- [The 0-to-1 PM Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L72) - Product sense, metrics, strategy cases, and behavioral storytelling system.
 
 **Practice**
 
@@ -99,7 +99,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 
 - [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850) by Gayle Laakmann McDowell - The classic. 189 programming questions and solutions.
 - [Elements of Programming Interviews](https://www.amazon.com/dp/1479274836) - 300 problems with detailed solutions in Python/Java/C++.
-- [The 0-to-1 SWE Interview Playbook](https://valenx.org/books/aie) - System for coding interviews, system design, behavioral rounds, and offer negotiation.
+- [The 0-to-1 SWE Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L102) - System for coding interviews, system design, behavioral rounds, and offer negotiation.
 
 ---
 
@@ -131,12 +131,12 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 - [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/) - 201 real interview questions from FAANG companies.
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/) - Free interactive SQL course from beginner to advanced.
 - [Kaggle Learn](https://www.kaggle.com/learn) - Free micro-courses on Python, SQL, ML, and deep learning.
-- [Data Scientist Interview Guide](https://valenx.org/books/aie) - Free walkthrough covering SQL, statistics, product sense, and ML system design.
+- [Data Scientist Interview Guide](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L134) - Free walkthrough covering SQL, statistics, product sense, and ML system design.
 
 **Books**
 
 - [Ace the Data Science Interview](https://www.amazon.com/dp/0578973839) by Nick Singh & Kevin Huo - 201 questions covering SQL, probability, ML, and product.
-- [The 0-to-1 Data Scientist Interview Playbook](https://valenx.org/books/aie) - FAANG data science interviews with frameworks for every round type.
+- [The 0-to-1 Data Scientist Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L139) - FAANG data science interviews with frameworks for every round type.
 - [Naked Statistics](https://www.amazon.com/dp/039334777X) by Charles Wheelan - Intuitive introduction to statistical thinking.
 
 ---
@@ -156,7 +156,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 **Books**
 
 - [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969) by Chip Huyen - Production ML systems from research to deployment.
-- [The 0-to-1 AI Engineer Interview Playbook](https://valenx.org/books/aie) - GenAI interview prep for OpenAI, Anthropic, Google, and Meta roles.
+- [The 0-to-1 AI Engineer Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L159) - GenAI interview prep for OpenAI, Anthropic, Google, and Meta roles.
 - [Hands-On Machine Learning](https://www.amazon.com/dp/1098125975) by Aurelien Geron - Practical ML with Scikit-Learn, Keras, and TensorFlow.
 
 ---
@@ -173,7 +173,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 **Books**
 
 - [Fundamentals of Data Engineering](https://www.amazon.com/dp/1098108302) by Joe Reis & Matt Housley - Comprehensive guide to the data engineering lifecycle.
-- [The 0-to-1 Data Engineer Interview Playbook](https://valenx.org/books/aie) - SQL, pipelines, data modeling, and cloud infrastructure for DE interviews.
+- [The 0-to-1 Data Engineer Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L176) - SQL, pipelines, data modeling, and cloud infrastructure for DE interviews.
 - [Spark: The Definitive Guide](https://www.amazon.com/dp/1491912219) - Complete guide to Apache Spark.
 
 ---
@@ -191,7 +191,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 
 - [The Manager's Path](https://www.amazon.com/dp/1491973897) by Camille Fournier - The definitive guide for tech leaders from IC to VP.
 - [An Elegant Puzzle](https://www.amazon.com/dp/1732265186) by Will Larson - Systems of engineering management.
-- [The 0-to-1 Engineering Manager Interview Playbook](https://valenx.org/books/aie) - Thinking system for EM interviews at Google, Meta, Amazon, Stripe.
+- [The 0-to-1 Engineering Manager Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L194) - Thinking system for EM interviews at Google, Meta, Amazon, Stripe.
 
 ---
 
@@ -205,7 +205,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 
 **Books**
 
-- [The 0-to-1 TPM Interview Playbook](https://valenx.org/books/aie) - Complete system for PgM and TPM interviews at Google, Meta, Amazon.
+- [The 0-to-1 TPM Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L208) - Complete system for PgM and TPM interviews at Google, Meta, Amazon.
 - [Program Management for Open Source Projects](https://www.amazon.com/dp/1680506021) - Managing complex programs with distributed teams.
 
 ---
@@ -222,7 +222,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 **Books**
 
 - [Site Reliability Engineering](https://www.amazon.com/dp/149192912X) by Betsy Beyer et al. - The original Google SRE book.
-- [The 0-to-1 SRE/DevOps Interview Playbook](https://valenx.org/books/aie) - Systems thinking, incident response, Kubernetes, and AI infrastructure.
+- [The 0-to-1 SRE/DevOps Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L225) - Systems thinking, incident response, Kubernetes, and AI infrastructure.
 
 ---
 
@@ -237,7 +237,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 
 **Books**
 
-- [The 0-to-1 Solutions Architect Interview Playbook](https://valenx.org/books/aie) - Master AWS, GCP, and Azure system design with proprietary frameworks.
+- [The 0-to-1 Solutions Architect Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L240) - Master AWS, GCP, and Azure system design with proprietary frameworks.
 - [Cloud Native Patterns](https://www.amazon.com/dp/1617294292) - Designing change-tolerant software.
 
 ---
@@ -255,7 +255,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 **Books**
 
 - [The Design of Everyday Things](https://www.amazon.com/dp/0465050654) by Don Norman - The foundational text on human-centered design.
-- [The 0-to-1 Product Design Interview Playbook](https://valenx.org/books/aie) - UX design challenges, portfolio reviews, and app critiques.
+- [The 0-to-1 Product Design Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L258) - UX design challenges, portfolio reviews, and app critiques.
 - [Don't Make Me Think](https://www.amazon.com/dp/0321965515) by Steve Krug - Timeless web usability principles.
 
 ---
@@ -271,7 +271,7 @@ Whether you are preparing for FAANG/MAANG interviews or targeting startups, this
 **Books**
 
 - [Obviously Awesome](https://www.amazon.com/dp/1999023005) by April Dunford - The definitive guide to product positioning.
-- [The 0-to-1 PMM Interview Playbook](https://valenx.org/books/aie) - GTM strategy, positioning, and marketing interview frameworks.
+- [The 0-to-1 PMM Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-tech-interview-prep_L274) - GTM strategy, positioning, and marketing interview frameworks.
 
 ---
 
